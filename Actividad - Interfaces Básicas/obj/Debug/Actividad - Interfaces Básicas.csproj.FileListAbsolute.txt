@@ -1,0 +1,11 @@
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\bin\Debug\Actividad - Interfaces Básicas.exe.config
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\bin\Debug\Actividad - Interfaces Básicas.exe
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\bin\Debug\Actividad - Interfaces Básicas.pdb
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad___Interfaces_Básicas.Properties.Resources.resources
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad - Interfaces Básicas.csproj.GenerateResource.cache
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad - Interfaces Básicas.csproj.CoreCompileInputs.cache
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad - Interfaces Básicas.exe
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad - Interfaces Básicas.pdb
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad___Interfaces_Básicas.Calculator.resources
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad - Interfaces Básicas.csproj.AssemblyReference.cache
+C:\Users\MiniNachito\Documents\Visual Studio 2017\Projects\Actividad - Interfaces Básicas\Actividad - Interfaces Básicas\obj\Debug\Actividad - Interfaces Básicas.csproj.SuggestedBindingRedirects.cache
